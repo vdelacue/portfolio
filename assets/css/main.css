@@ -251,6 +251,10 @@ canvas {
     }
   }
   
+  .img-fluid {
+    margin-top: 3%;
+  }
+
   .projects-section .project-text {
     padding: 3rem;
     font-size: 90%;
