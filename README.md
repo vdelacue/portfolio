@@ -14,7 +14,8 @@ I enjoy analyzing problems and building systems to solve them. This site showcas
 
 ### **Explanation**
 
-This site was built 
+This site was built in two basic phases, phase one was the structure and functionality and phase two consisted of styling and debugging.
+
 #### _Phase one_ of the application used:
 
 > - **HTML5** to provide the basic structure and backbone of the application layout.
@@ -39,7 +40,7 @@ _Phase two_ consisted of refactoring styling to desired views and continuing to 
 
 Here are some issues during development I ran into with the page.
 
-![logo](/assets/images/colorPallette.png "Color Palette inspiration")
+![Palette](/assets/images/colorPallette.png "Color Palette inspiration")
 
 ---
 
@@ -47,7 +48,7 @@ Here are some issues during development I ran into with the page.
 
 Here is the site I saw that inspired my portfolio page.
 
-![logo](/assets/images/portInspiration.png "Inspiration for portfolio and to hunt down how to create animated particles")
+![Inspiration](/assets/images/portInspiration.png "Inspiration for portfolio and to hunt down how to create animated particles")
 
 ---
 
@@ -59,7 +60,7 @@ During development several issues occured regarding image displays and rendering
 
 You can see below that I encounted some display issues during development.
 
-![Display Problems](/assets/images/portMoreProjIssue.png "Display Issue")
+![Problems](/assets/images/portMoreProjIssue.png "Display Issue")
 ---
 
 ### **Solution**
