@@ -27,4 +27,4 @@ function activateFilterAnimation() {
     $('#bwBulb').toggleClass('animated');
   }
   
-  $('#bwBulb').on('click', activateFilterAnimation);
+  $('#resume').on('click', activateFilterAnimation);
