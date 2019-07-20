@@ -31,7 +31,7 @@ _Phase two_ consisted of refactoring styling to desired views and continuing to 
 
 ![alt text][Basic Structure and plain outline]
 
-[Portfolio Basic Structure and plain layout]: /assets/images/OrigPortPlain.png "Phase One Home Page of Bloc Jams"
+[Portfolio Basic Structure and plain layout]: /assets/images/OrigPortPlain.png "Phase One Home Page of Portfolio"
 
 ---
 
@@ -41,7 +41,7 @@ Here are some issues during development I ran into with the page.
 
 ![alt text][logo]
 
-[logo]: /assets/images/portMoreProjIssue.png "Phase Two Home Page of Bloc Jams"
+[logo]: /assets/images/portMoreProjIssue.png "Phase Two Home Page of Portfolio"
 
 ---
 
@@ -54,21 +54,21 @@ Here are some issues during development I ran into with the page.
 [logo]: /assets/images/colorPallette.png "Color Palette inspiration"
 
 ---
-<!-- 
+
 ### _Inspiration_For_Site
 
 Here is the site I saw that inspired my portfolio page.
 
 ![alt text][logo]
 
-[logo]: /assets/images/portMoreProjIssue.png "Phase Two Home Page of Bloc Jams"
+[logo]: /assets/images/portInspiration.png "Inspiration for portfolio and to hunt down how to created animated particles"
 
---- -->
+---
 
 
 ### **Problem**
 
-During development several issues occured regarding image displays and rendering content in a visually pleasing manner while maintaining color pallette and desired layout. I incorporated a particles.js file created by vincent G here is a link to his GitHub . While visually impressive the complex code used to render the particles resulted in several layout issues and conflicted with my elements and classes.
+During development several issues occured regarding image displays and rendering content in a visually pleasing manner while maintaining color pallette and desired layout. I incorporated a particles.js file. While visually impressive the complex code used to render the particles resulted in several layout issues and conflicted with my elements and classes.
 
 ### _Image_of_Problem
 
