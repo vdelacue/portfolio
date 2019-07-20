@@ -1,8 +1,8 @@
 /* ---- reset ---- */
-body {
+/* body {
     margin: 0;
     font: normal 75% Arial, Helvetica, sans-serif;
-}
+} */
 
 canvas {
     display: block;
@@ -15,7 +15,7 @@ canvas {
     width: 100%;
     height: 100%;
     background-color: #6b4a4d;
-    background-image: url("https://images.pexels.com/photos/1050305/pexels-photo-1050305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-image: url("../images/BWbackground.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -67,6 +67,8 @@ canvas {
  #mainNav {
     min-height: 56px;
     background-color: #fff;
+    color: #8B2433;
+    font-size: 1.3rem;
   }
   
   #mainNav .navbar-toggler {
@@ -78,6 +80,7 @@ canvas {
   
   #mainNav .navbar-toggler:focus {
     outline: none;
+    
   }
   
   #mainNav .navbar-brand {
@@ -108,19 +111,19 @@ canvas {
     }
     #mainNav .navbar-brand {
       padding: .5rem 0;
-      color: rgba(255, 255, 255, 0.5);
+      color: #8B2433;
     }
     #mainNav .nav-link {
       -webkit-transition: none;
       transition: none;
       padding: 2rem 1.5rem;
-      color: rgba(255, 255, 255, 0.5);
+      color: #8B2433;
     }
     #mainNav .nav-link:hover {
-      color: rgba(255, 255, 255, 0.75);
+      color: #D81F3D;
     }
     #mainNav .nav-link:active {
-      color: white;
+      color: #D81F3D;
     }
     #mainNav.navbar-shrink {
       background-color: #fff;
@@ -236,6 +239,78 @@ canvas {
     margin-bottom: 5rem;
   }
   
+/* 
+.portfolio-item {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  max-width: 530px;
+  margin: auto auto 1rem;
+}
+
+.portfolio-item .caption {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(33, 37, 41, 0.2);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.portfolio-item .caption .caption-content {
+  color: #fff;
+  margin: auto 2rem 2rem;
+}
+
+.portfolio-item .caption .caption-content h2 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.portfolio-item .caption .caption-content p {
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+@media (min-width: 992px) {
+  .portfolio-item {
+    max-width: none;
+    margin: 0;
+  }
+  .portfolio-item .caption {
+    -webkit-transition: -webkit-clip-path 0.25s ease-out, background-color 0.7s;
+    -webkit-clip-path: inset(0px);
+    clip-path: inset(0px);
+  }
+  .portfolio-item .caption .caption-content {
+    -webkit-transition: opacity 0.25s;
+    transition: opacity 0.25s;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+  }
+  .portfolio-item img {
+    -webkit-transition: -webkit-clip-path 0.25s ease-out;
+    -webkit-clip-path: inset(-1px);
+    clip-path: inset(-1px);
+  }
+  .portfolio-item:hover img {
+    -webkit-clip-path: inset(2rem);
+    clip-path: inset(2rem);
+  }
+  .portfolio-item:hover .caption {
+    background-color: rgba(29, 128, 159, 0.9);
+    -webkit-clip-path: inset(2rem);
+    clip-path: inset(2rem);
+  }
+} */
+
+
+
   .projects-section {
     padding: 10rem 0;
   }
@@ -251,9 +326,9 @@ canvas {
     }
   }
   
-  .img-fluid {
+  /* .img-fluid {
    margin-top: 3%;
-  }
+  } */
 
   .projects-section .project-text {
     padding: 3rem;
@@ -326,11 +401,11 @@ canvas {
     background: rgba(255, 255, 255, 0.1);
     border-radius: 100%;
     line-height: 3rem;
-    color: rgba(255, 255, 255, 0.3);
+    color: #D81F3D;
   }
   
   .contact-section .social a:hover {
-    color: rgba(255, 255, 255, 0.5);
+    color: #D81F3D;
   }
   
   .contact-section .social a:active {
@@ -348,7 +423,7 @@ canvas {
   
   a:focus, a:hover {
     text-decoration: none;
-    color: #3c6360;
+    color: #D81F3D;
   }
   
   .bg-black {
@@ -367,3 +442,4 @@ canvas {
     padding: 5rem 0;
   }
   
+ 
