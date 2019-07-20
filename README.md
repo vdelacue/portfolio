@@ -14,12 +14,11 @@ I enjoy analyzing problems and building systems to solve them. This site showcas
 
 ### **Explanation**
 
-This site was built 
+This site was built in two basic phases, phase one was the structure and functionality and phase two consisted of styling and debugging.
 
 #### _Phase one_ of the application used:
 
 > - **HTML5** to provide the basic structure and backbone of the application layout.
-> - **CS3** & **bootstrap** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 > - **Javascript** and **JQuery** to create interactivity..
 
 From the start of _Phase One_ **Vanilla Javascript** was utilized for animation and **DOM Scripting** for events and functionality. After the basic structure was setup some distinctive and attractive features were added with **CS3**. A fun Easter Egg was included when you click to see Resume PDF. **JQuery** and **Javascript** event handling was used to animate light bulb picture in the About Section.
@@ -54,6 +53,9 @@ Here is the site I saw that inspired my portfolio page.
 [logo]: /assets/images/portInspiration.png "Inspiration for portfolio and to hunt down how to created animated particles"
 
 ---
+#### _Phase_Two_of_the_application_used:
+
+> - **CS3** & **bootstrap** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 
 
 ### **Problem**
