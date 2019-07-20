@@ -29,9 +29,7 @@ _Phase two_ consisted of refactoring styling to desired views and continuing to 
 
 ### _Phase One_ Home Page
 
-![alt text][Basic Structure and plain outline]
-
-[Portfolio Basic Structure and plain layout]: /assets/images/OrigPortPlain.png "Phase One Home Page of Portfolio"
+[Portfolio Basic Structure and plain layout]: assets/images/OrigPortPlain.png "Phase One Home Page of Portfolio"
 
 ---
 
