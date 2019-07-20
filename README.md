@@ -19,12 +19,12 @@ I enjoy analyzing problems and building systems to solve them. This site showcas
 
 This site was built in two basic phases, phase one was the structure and functionality and phase two consisted of styling and debugging.
 
-#### _Phase One_ of the application used:
+#### _Phase One_ of the site used:
 
 > - **HTML5** to provide the basic structure and backbone of the application layout.
 > - **Javascript** and **JQuery** to create interactivity.
 
-#### _Phase Two_ of the application used:
+#### _Phase Two_ of the site used:
 
 > - **CS3** & **Bootstrap4** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 
@@ -39,7 +39,7 @@ From the start of _Phase One_ **Vanilla Javascript** was utilized for animation 
 
 ## _Color Palette_ Adopted
 
-Here are some issues during development I ran into with the page.
+Here is a site that drew my eye because if incorporated my favorite colors I created a color palette using Google chrome extension `color palette creator`
 
 ![Palette](/assets/images/colorPallette.png "Color Palette inspiration")
 
