@@ -1,6 +1,6 @@
 # **Portfolio Project** 
 ### In this site I have showcased past projects and provide a current PDF of my Resume as well as links to contact me via various social and professional networks. There is also a link to subscribe to my newsletter featuring current and upcoming projects. Do not be afraid to subscribe I hate spam just as much as you do!
- 
+
 Here is a direct link to the site [Vanessa de La Cuetara's Portfolio](http://delacue.com/portfolio/) 
 
 ---
@@ -8,7 +8,7 @@ Here is a direct link to the site [Vanessa de La Cuetara's Portfolio](http://del
 # **Summary**
 
 Throughout my life I have been fearless about diving into new technologies
-and continueingto learn more in the world of programming. I am an out of the box thinker looking for full-stack
+and continueing to learn more in the world of programming. I am an out of the box thinker looking for full-stack
 developer projects that challenge me and enable me to utilizes my creative, organizational, and designing skills.
 I enjoy analyzing problems and building systems to solve them. This site showcases some projects and my Resume please send me any comments, compliments or complaints I am always looking to improve and get feedback.
 
