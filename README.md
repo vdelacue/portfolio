@@ -1,7 +1,7 @@
+## **Portfolio** showcasing past projects and CV's here is a direct link to the site [Vanessa de La Cuetara's Portfolio](http://delacue.com/portfolio/) 
 
+## Scroll down to learn more about how this site was built.
 
-#### **Portfolio** showcasing past projects and CV's here is a direct link to the site [Vanessa de La Cuetara's Portfolio Site](http://delacue.com/portfolio/) Scroll down to learn more about how this site was built.
-![screen shot Image](assets/images/portfolioFullPage.png "Screen capture Image")
 
 ### **Summary**
 
@@ -16,12 +16,12 @@ I enjoy analyzing problems and building systems to solve them. This site showcas
 
 This site was built in two basic phases, phase one was the structure and functionality and phase two consisted of styling and debugging.
 
-#### _Phase one_ of the application used:
+#### _Phase One_ of the application used:
 
 > - **HTML5** to provide the basic structure and backbone of the application layout.
 > - **Javascript** and **JQuery** to create interactivity.
 
-#### _Phase Two_of the application used:
+#### _Phase Two_ of the application used:
 
 > - **CS3** & **bootstrap** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 
@@ -83,3 +83,7 @@ Staying organized and writing clean psuedo code that is univerally understood (n
 There are many programmers out in the world that blindly use libraries, frameworks and packages without knowing what they are executing or doing behind the scenes. It is very similar to the way people use the english language and use acronyms without knowing their meaning or what they stand for. Of course you can properly use many words without knowing their origin or true meaning. For example, many people use the word _zip_ code every day not knowing that it stands for “Zoning Improvement Plan” a system of postal codes used by the United States Postal Service (USPS) since 1963. _Laser_ stands for “Light Amplification by Stimulated Emission of Radiation”, _Scuba_ stands for “Self-Contained Underwater Breathing Apparatus, _Taser_ stands for “Thomas A Swift Electric Rifle, _CARE_ Package stands for “Cooperative for Assistance and Relief Everywhere” Packages, and so on…
 
 The point is, all these acronyms are used by people regularly in communication, without these people being aware of the meaning behind these words. A similar situation occurs in programming. Many shortcuts, abbreviations, packages, libraries and frameworks have been created and adopted by programmers. These programmers have not bothered to learn what these consolidated lines of code actually mean and thus sometimes fall victim to sloppy unorganized code that is difficult to follow with little psuedo code. Luckily, thanks to my education and determination to build a strong foundation in programming fundamentals, I do not fall victim to this “TechnoTardic” Naiveté. 
+
+### **Portfolio Current Look**
+
+![screen shot Image](assets/images/portfolioFullPage.png "Screen capture Image")
