@@ -35,16 +35,6 @@ _Phase two_ consisted of refactoring styling to desired views and continuing to 
 
 ---
 
-### _Phase Two_ Home Page
-
-Here are some issues during development I ran into with the page.
-
-![alt text][logo]
-
-[logo]: /assets/images/portMoreProjIssue.png "Phase Two Home Page of Portfolio"
-
----
-
 ### _Color_Palette_Adopted
 
 Here are some issues during development I ran into with the page.
@@ -70,7 +60,7 @@ Here is the site I saw that inspired my portfolio page.
 
 During development several issues occured regarding image displays and rendering content in a visually pleasing manner while maintaining color pallette and desired layout. I incorporated a particles.js file. While visually impressive the complex code used to render the particles resulted in several layout issues and conflicted with my elements and classes.
 
-### _Image_of_Problem
+### _Image_of_Problem_Phase_Two
 
 You can see below that I encounted some display issues during development.
 
