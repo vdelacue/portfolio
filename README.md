@@ -29,9 +29,7 @@ _Phase two_ consisted of refactoring styling to desired views and continuing to 
 
 ### _Phase One_ Home Page
 
-![alt text][logo]
-
-[Portfolio Basic Structure and plain layout]: /assets/images/OrigPortPlain.png "Phase One Home Page of Portfolio"
+![Portfolio Basic Structure and plain layout](/assets/images/OrigPortPlain.png "Phase One Home Page of Portfolio")
 
 ---
 
@@ -39,9 +37,7 @@ _Phase two_ consisted of refactoring styling to desired views and continuing to 
 
 Here are some issues during development I ran into with the page.
 
-![alt text][logo]
-
-[logo]: /assets/images/colorPallette.png "Color Palette inspiration"
+![logo](/assets/images/colorPallette.png "Color Palette inspiration")
 
 ---
 
@@ -49,12 +45,9 @@ Here are some issues during development I ran into with the page.
 
 Here is the site I saw that inspired my portfolio page.
 
-![alt text][logo]
-
-[logo]: /assets/images/portInspiration.png "Inspiration for portfolio and to hunt down how to created animated particles"
+![logo](/assets/images/portInspiration.png "Inspiration for portfolio and to hunt down how to create animated particles")
 
 ---
-
 
 ### **Problem**
 
@@ -64,9 +57,7 @@ During development several issues occured regarding image displays and rendering
 
 You can see below that I encounted some display issues during development.
 
-![alt text][logo]
-
-[Display Problems]: /assets/images/portMoreProjIssue.png "Display Issue"
+![Display Problems](/assets/images/portMoreProjIssue.png "Display Issue")
 ---
 
 ### **Solution**
