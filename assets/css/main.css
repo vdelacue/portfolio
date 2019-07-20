@@ -238,6 +238,32 @@ canvas {
   .about-section p {
     margin-bottom: 5rem;
   }
+
+.about-section a:hover {
+    color: #D81F3D;
+  }
+
+.about-section a {
+  color: #8B2433;
+}
+
+#bwBulb.animated {
+    -webkit-animation: filter-animation 5s infinite;
+  }
+  
+  @-webkit-keyframes filter-animation {
+    0% {
+      -webkit-filter: sepia(0) saturate(2);
+    }
+    
+    50% {
+      -webkit-filter: sepia(1) saturate(8);
+    }
+    
+    100% {
+      -webkit-filter: sepia(0) saturate(2);
+    }
+  }
   
 /* 
 .portfolio-item {
@@ -325,6 +351,7 @@ canvas {
       border-left: 0.5rem solid #D81F3D;
     }
   }
+
   
   /* .img-fluid {
    margin-top: 3%;
