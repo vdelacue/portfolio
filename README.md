@@ -15,12 +15,14 @@ I enjoy analyzing problems and building systems to solve them. This site showcas
 ### **Explanation**
 
 This site was built 
-
 #### _Phase one_ of the application used:
 
 > - **HTML5** to provide the basic structure and backbone of the application layout.
-> - **CS3** & **bootstrap** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 > - **Javascript** and **JQuery** to create interactivity..
+
+#### _Phase_Two_of_the_application_used:
+
+> - **CS3** & **bootstrap** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 
 From the start of _Phase One_ **Vanilla Javascript** was utilized for animation and **DOM Scripting** for events and functionality. After the basic structure was setup some distinctive and attractive features were added with **CS3**. A fun Easter Egg was included when you click to see Resume PDF. **JQuery** and **Javascript** event handling was used to animate light bulb picture in the About Section.
 
