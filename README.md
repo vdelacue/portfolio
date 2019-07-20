@@ -51,7 +51,7 @@ Here are some issues during development I ran into with the page.
 
 ![alt text][logo]
 
-[logo]: /assets/images/portMoreProjIssue.png "Phase Two Home Page of Bloc Jams"
+[logo]: /assets/images/colorPallette.png "Color Palette inspiration"
 
 ---
 <!-- 
