@@ -77,7 +77,7 @@ Isolating each section and clearly writing out psuedo code helped target problem
 
 # **Results**
 
-While I enjoy leveraging the use of **Bootstrap** and JQuery it is important to me to have a strong foundation in fundamentals like CSS and HTML for Front-End. I look forward to taking my project to the next level by building a Back-End and including much more interactivity and hidden functionality in the Site. 
+While I enjoy leveraging the use of **Bootstrap** and **JQuery** it is important to me to have a strong foundation in fundamentals like **CSS** and **HTML** for Front-End. I look forward to taking my project to the next level by building a Back-End and including much more interactivity and hidden functionality in the Site. 
 Many of the frameworks, libraries and packages used today bypass the need to write such lengthy code and make frontend web development much easier. However it is important to understand what all these frameworks libraries and packages are accomplishing behind the scenes. This knowledge is essential to really understand programming and what is happening when a user enters and interacts with a site or application.
 
 ---
