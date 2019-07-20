@@ -1,6 +1,6 @@
-# portfolio
 
-Portfolio showcasing past projects and CV's here is a direct link to the site [Vanessa de La Cuetara's Portfolio Site](http://delacue.com/portfolio/) 
+
+#### **Portfolio** showcasing past projects and CV's here is a direct link to the site [Vanessa de La Cuetara's Portfolio Site](http://delacue.com/portfolio/) Scroll down to learn more about how this site was built.
 ![screen shot Image](assets/images/portfolioFullPage.png "Screen capture Image")
 
 ### **Summary**
@@ -8,7 +8,7 @@ Portfolio showcasing past projects and CV's here is a direct link to the site [V
 Throughout my life I have been fearless about diving into new technologies
 and continueingto learn more in the world of programming. I am an out of the box thinker looking for full-stack
 developer projects that challenge me and enable me to utilizes my creative, organizational, and designing skills.
-I enjoy analyzing problems and building systems to solve them. This site showcases some projects 
+I enjoy analyzing problems and building systems to solve them. This site showcases some projects and my Resume please send me any comments, compliments or complaints I am always looking to improve and get feedback.
 
 ---
 
@@ -19,9 +19,9 @@ This site was built in two basic phases, phase one was the structure and functio
 #### _Phase one_ of the application used:
 
 > - **HTML5** to provide the basic structure and backbone of the application layout.
-> - **Javascript** and **JQuery** to create interactivity..
+> - **Javascript** and **JQuery** to create interactivity.
 
-#### _Phase_Two_of_the_application_used:
+#### _Phase Two_of the application used:
 
 > - **CS3** & **bootstrap** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 
@@ -32,11 +32,11 @@ _Phase two_ consisted of refactoring styling to desired views and continuing to 
 
 ### _Phase One_ Home Page
 
-![Portfolio Basic Structure and plain layout](/assets/images/OrigPortPlain.png "Phase One Home Page of Portfolio")
+![Portfolio Basic Structure](/assets/images/OrigPortPlain.png "Phase One Home Page of Portfolio")
 
 ---
 
-### _Color_Palette_Adopted
+### _Color Palette_ Adopted
 
 Here are some issues during development I ran into with the page.
 
@@ -44,7 +44,7 @@ Here are some issues during development I ran into with the page.
 
 ---
 
-### _Inspiration_For_Site
+### _Inspiration_ For Site
 
 Here is the site I saw that inspired my portfolio page.
 
@@ -56,7 +56,7 @@ Here is the site I saw that inspired my portfolio page.
 
 During development several issues occured regarding image displays and rendering content in a visually pleasing manner while maintaining color pallette and desired layout. I incorporated a particles.js file. While visually impressive the complex code used to render the particles resulted in several layout issues and conflicted with my elements and classes.
 
-### _Image_of_Problem_Phase_Two
+### _Image of Problem Phase Two_
 
 You can see below that I encounted some display issues during development.
 
