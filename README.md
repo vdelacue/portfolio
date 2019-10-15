@@ -2,7 +2,7 @@
 
  In this site I have showcased past projects and provide a current PDF of my Resume as well as links to contact me via various social and professional networks. There is also a link to subscribe to my newsletter featuring current and upcoming projects. Do not be afraid to subscribe I hate spam just as much as you do!
 
-Here is a direct link to the site [Vanessa de La Cuetara's Portfolio](http://delacue.com/portfolio/) 
+Here is a direct link to the site [Vanessa de La Cuetara's Portfolio](http://vdelacue.github.io/portfolio/) 
 
 ---
 
@@ -92,6 +92,4 @@ The point is, all these acronyms are used by people regularly in communication, 
 
 ---
 
-# **Portfolio Current Look**
 
-![screen shot Image](assets/images/portfolioFullPage.png "Screen capture Image")
