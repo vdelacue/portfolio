@@ -92,6 +92,4 @@ The point is, all these acronyms are used by people regularly in communication, 
 
 ---
 
-# **Portfolio Current Look**
 
-![screen shot Image](assets/images/portfolioFullPage.png "Screen capture Image")
