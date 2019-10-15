@@ -249,6 +249,11 @@ canvas {
   background-color: #D81F3D !important;
 }
 
+#out-of-box-btn {
+  z-index: 2 !important;
+  position: relative;
+}
+
 
 /* --- about section --- */
 .about-section {
