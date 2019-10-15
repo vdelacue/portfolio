@@ -12,7 +12,9 @@
     <!-- Custom fonts -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css">
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet">
     <!-- my css style sheet -->
     <link rel="stylesheet" href="assets/css/main.css">
     <title>Vanessa de La Cuetara Portfolio</title>
@@ -71,8 +73,10 @@
                     <a href="assets/full_stack_developer_Resume.pdf" target="_blank" id="resume">View Resume</a>
                     <img src="assets/images/shortOffBulb.png" class="img-fluid" id="bwBulb" alt="">
                     <p class="text-white-50">Throughout my life I have been fearless about diving into new technologies
-                        and continuing to learn more in the world of programming. I am an out of the box thinker looking for full-stack
-                        developer projects that challenge me and enable me to utilizes my creative, organizational, and designing skills. 
+                        and continuing to learn more in the world of programming. I am an out of the box thinker looking
+                        for full-stack
+                        developer projects that challenge me and enable me to utilizes my creative, organizational, and
+                        designing skills.
                         I enjoy analyzing problems and building systems to solve them.</p>
                 </div>
             </div>
@@ -87,28 +91,75 @@
     <section id="projects" class="projects-section bg-light">
         <div class="container">
 
-            <!-- Featured Project Row -->
+            <!-- Featured Project 1 Row -->
+            <div class="row align-items-center no-gutters" id="bucketBuddyDiv">
+                <div class="col-xl-8 col-lg-7">
+                    <img class="img-fluid mb-3 mb-lg-0 " src="assets/images/bucketbuddylanding.png"
+                        alt="Bucket Buddy Landing Page Screen Shot">
+                </div>
+                <div class="col-xl-4 col-lg-5">
+                    <div class="featured-text text-center text-lg-left">
+                        <h4>Bucket Buddy</h4>
+                        <p class="text-black-50 mb-0">Bucket Buddy is an interactive site that enables a user to create
+                            a list of all the things they want to try, goals they want to achieve and life experiences
+                            they want to have before they die. After creating your own bucket list you are matched with
+                            other bucket buddies that have the same list items. Users are matched together and then
+                            given the information to be able to complete tasks together as groups.</p>
+                        <a href="https://still-depths-21016.herokuapp.com" target="_blank">Click here to checkout
+                            site</a>
+                        <br>
+                        <a href="https://github.com/1nikita24/bucketbuddy" target="_blank">Click here to checkout Github
+                            Repo </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Featured Project 2 Row -->
+            <div class="row align-items-center no-gutters" id="roadtripHeroDiv">
+                <div class="col-xl-8 col-lg-7">
+                    <img class="img-fluid mb-3 mb-lg-0" src="assets/images/raodTripHeroHome.png"
+                        alt="Road Trip Hero Home Page Screen Shot">
+                </div>
+                <div class="col-xl-4 col-lg-5">
+                    <div class="featured-text text-center text-lg-left">
+                        <h4>Road Trip Hero</h4>
+                        <p class="text-black-50 mb-0">An interactive React site that provides users with alternate safer
+                            routes to a destination. After user enters destination a complex algorithm breaks down route
+                            into all zipcodes and assign a safety value from 1-100, users can then see safest stops
+                            along their route.</p>
+                        <a href="https://desolate-spire-22968.herokuapp.com/" target="_blank">Click here to checkout
+                            site deployed by heroku </a>
+                        <br>
+                        <a href="https://github.com/gfellouris/RoadTripHero" target="_blank">Click here to checkout
+                            Github Repo</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Featured Project 3 Row -->
             <div class="row align-items-center no-gutters" id="brewologyDiv">
                 <div class="col-xl-8 col-lg-7">
-                    <img class="img-fluid mb-3 mb-lg-0" src="assets/images/GPBrew.png" alt="">
+                    <img class="img-fluid mb-3 mb-lg-0" src="assets/images/GPBrew.png" alt="Brewology Home Page Screen Shot">
                 </div>
                 <div class="col-xl-4 col-lg-5">
                     <div class="featured-text text-center text-lg-left">
                         <h4>Brewology</h4>
                         <p class="text-black-50 mb-0">An interactive site that professionally assesses personalities and
                             pairs them with corresponding types of beers.</p>
-                        <a href="https://delacue.com/GP-Brewology" target="_blank">Checkout site</a>
+                        <a href="https://vdelacue.github.io/GP-Brewology" target="_blank">Click here to checkout
+                            site</a>
                         <br>
-                        <a href="https://github.com/vdelacue/GP-Brewology" target="_blank">Checkout Git Repo</a>
+                        <a href="https://github.com/vdelacue/GP-Brewology" target="_blank">Click here to checkout GitHub
+                            Repo</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Project One Row -->
+            <!-- Project Item One Star Wars RPG Game -->
 
-            <div class="row justify-content-center no-gutters">
+            <div class="row justify-content-center no-gutters project-item">
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="assets/images/triviaGame.png" alt="">
+                    <img class="img-fluid proj-img" src="assets/images/starwarsGame.png" alt="">
                 </div>
 
                 <div class="col-lg-6 order-lg-first">
@@ -116,12 +167,13 @@
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-right">
-                                <h4 class="text-white">Movie Trivia Game</h4>
-                                <p class="mb-0 text-white-50">Movie quotes trivia game with timer and dynamically
-                                    rendered questions and results</p>
-                                <a href="https://delacue.com/TriviaGame/" target="_blank">Checkout site</a>
+                                <h4 class="text-white">Star Wars RPG</h4>
+                                <p class="mb-0 text-white-50">Star Wars Role Playing Game that loads dynamically</p>
+                                <a href="https://vdelacue.github.io/unit-4-game/" target="_blank">Click here to checkout
+                                    site</a>
                                 <br>
-                                <a href="https://github.com/vdelacue/TriviaGame" target="_blank">Checkout Git Repo</a>
+                                <a href="https://github.com/vdelacue/unit-4-game" target="_blank">Click here to checkout
+                                    GitHub Repo</a>
                                 <hr class="d-none d-lg-block mb-0 mr-0">
                             </div>
                         </div>
@@ -129,8 +181,58 @@
                 </div>
             </div>
 
-            <!-- Project Two Row -->
-            <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+            <!-- Project Item two Eat-Da-Burger -->
+
+            <div class="row justify-content-center no-gutters mb-5 mb-lg-0 project-item">
+                <div class="col-lg-6">
+                    <img class="img-fluid proj-img" src="assets/images/Eat-Da-Burger-PNG.png" alt="">
+                </div>
+                <div class="col-lg-6">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <h4 class="text-white">Eat - Da - Burger</h4>
+                                <p class="mb-0 text-white-50">An interactive site that allows user to create list of
+                                    dream burgers and then move them into a devoured container. Site is intended to
+                                    display some frontend and backend skills</p>
+                                <a href="https://whispering-brushlands-98083.herokuapp.com/" target="_blank">click here
+                                    to Click here to checkout site</a>
+                                <br>
+                                <a href="https://github.com/vdelacue/Eat-Da-Burger" target="_blank">click here to
+                                    checkout Github Repo</a>
+                                <hr class="d-none d-lg-block mb-0 ml-0">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project Item three Movie Trivia Game with timer-->
+
+            <div class="row justify-content-center no-gutters project-item">
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="assets/images/triviaGame.png" alt="">
+                </div>
+                <div class="col-lg-6 order-lg-first">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-right">
+                                <h4 class="text-white">Timed Movie Trivia Game</h4>
+                                <p class="mb-0 text-white-50">Movie quotes trivia game with timer and dynamically
+                                    rendered questions and results</p>
+                                <a href="https://vdelacue.github.io/TriviaGame/" target="_blank">Click here to checkout site</a>
+                                <br>
+                                <a href="https://github.com/vdelacue/TriviaGame" target="_blank">Click here to checkout GitHub Repo</a>
+                                <hr class="d-none d-lg-block mb-0 mr-0">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project Item four Bloc Jams Phase One -->
+
+            <div class="row justify-content-center no-gutters project-item">
                 <div class="col-lg-6">
                     <img class="img-fluid" src="assets/images/blocjamsphase1homes.png" alt="">
                 </div>
@@ -143,9 +245,9 @@
                                 <h4 class="text-white">Bloc Jams Phase One</h4>
                                 <p class="mb-0 text-white-50">An interactive music site that allows you to stream music
                                     based on your music selections</p>
-                                <a href="https://delacue.com/bloc-jams" target="_blank">Checkout site</a>
+                                <a href="https://delacue.com/bloc-jams" target="_blank">Click here to checkout site</a>
                                 <br>
-                                <a href="https://github.com/vdelacue/bloc-jams" target="_blank">Checkout Git Repo</a>
+                                <a href="https://github.com/vdelacue/bloc-jams" target="_blank">Click here to checkout GitHub Repo</a>
                                 <hr class="d-none d-lg-block mb-0 ml-0">
                             </div>
                         </div>
@@ -154,34 +256,10 @@
 
             </div>
 
-            <!-- Project three Row -->
-
-            <div class="row justify-content-center no-gutters">
+            <!-- Project Item five Bloc Jams Phase Two - React App-->
+            <div class="row justify-content-center no-gutters mb-5 mb-lg-0 project-item">
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="assets/images/starwarsGame.png" alt="">
-                </div>
-
-                <div class="col-lg-6 order-lg-first">
-
-                    <div class="bg-black text-center h-100 project">
-                        <div class="d-flex h-100">
-                            <div class="project-text w-100 my-auto text-center text-lg-right">
-                                <h4 class="text-white">Star Wars RPG</h4>
-                                <p class="mb-0 text-white-50">Star Wars Role Playing Game that loads dynamically</p>
-                                <a href="https://delacue.com/unit-4-game" target="_blank">Checkout site</a>
-                                <br>
-                                <a href="https://github.com/vdelacue/unit-4-game" target="_blank">Checkout Git Repo</a>
-                                <hr class="d-none d-lg-block mb-0 mr-0">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Project four Row -->
-            <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
-                <div class="col-lg-6">
-                    <img class="img-fluid" src="assets/images/blocJamsReactHome.png" alt="">
+                    <img class="img-fluid proj-img" src="assets/images/blocJamsReactHome.png" alt="">
                 </div>
 
                 <div class="col-lg-6">
@@ -189,10 +267,10 @@
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-left">
-                                <h4 class="text-white">Bloc Jams - React</h4>
-                                <p class="mb-0 text-white-50">An interactive music site that allows you to stream music
-                                    based on your music selections</p>
-                                <a href="https://delacue.com/bloc-jams-react" target="_blank">Checkout site</a>
+                                <h4 class="text-white">Bloc Jams Phase Two - React App</h4>
+                                <p class="mb-0 text-white-50">Same interactive music site rebuilt from scratch using React </p>
+                                <a href="https://vdelacue.github.io/bloc-jams-react" target="_blank">Click here to
+                                    checkout site</a>
                                 <br>
                                 <a href="https://github.com/vdelacue/bloc-jams-react" target="_blank">Checkout Git
                                     Repo</a>
@@ -207,6 +285,7 @@
 
         </div>
     </section>
+
 
     <!-- Signup Section -->
     <section id="signup" class="signup-section">
