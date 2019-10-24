@@ -109,6 +109,8 @@ canvas {
 .navbar-light .navbar-nav .nav-link {
   color: #D81F3D;
   background-color: white;
+  padding: 5px;
+  text-align: end;
 }
 
 @media (min-width: 992px) {
