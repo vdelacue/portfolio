@@ -117,7 +117,7 @@ canvas {
   #mainNav {
     min-height: 60px;
     /* padding-top: .8rem; */
-    /* padding-bottom: 2.85rem; */
+    padding-bottom: 2.85rem;
     margin: 0;
     border-bottom: none;
     /* background-color: transparent; */
@@ -135,7 +135,7 @@ canvas {
     -webkit-transition: none;
     transition: none;
     padding: 1rem;
-    color: white;
+    color: #000022;
   }
 
   @media (min-width: 992px){
