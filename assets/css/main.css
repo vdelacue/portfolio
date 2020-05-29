@@ -58,22 +58,15 @@ canvas {
   border-radius: 0 0 3px 3px;
 }
 
-/*!
- * Start Bootstrap - Grayscale v5.0.8 (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
- */
-
 /* ---- NAV ----*/
 #mainNav {
-
   max-height: 60px;
   background-color: white;
   color: rgb(185, 24, 49);
   font-size: 1.5rem;
   font-weight: 00;
   justify-content: center;
-  
+
 }
 
 #mainNav .navbar-toggler {
